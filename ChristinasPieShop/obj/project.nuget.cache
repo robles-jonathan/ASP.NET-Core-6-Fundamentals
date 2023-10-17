@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbvkzVXjbGL+ScAF9vZf2zkbTJxk+lH7a6HX0fZSYRIbV6WswkJZ8S0E2rTRsXrtz+Hkev9AO1A8s2ZKAXeScw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\1\\ChristinasPieShop\\ChristinasPieShop\\ChristinasPieShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d-jonathan.robles\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\d-jonathan.robles\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\d-jonathan.robles\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\d-jonathan.robles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
