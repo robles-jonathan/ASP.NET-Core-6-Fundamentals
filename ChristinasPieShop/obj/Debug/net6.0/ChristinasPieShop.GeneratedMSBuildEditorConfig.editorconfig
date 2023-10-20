@@ -15,3 +15,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Code\1\ChristinasPieShop\ChristinasPieShop
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Code/1/ChristinasPieShop/ChristinasPieShop/Views/Pie/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

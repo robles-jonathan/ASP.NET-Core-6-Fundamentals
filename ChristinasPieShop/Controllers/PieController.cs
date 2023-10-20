@@ -16,6 +16,7 @@ namespace ChristinasPieShop.Controllers
 
         public IActionResult List()
         {
+            ViewBag.CurrentCategory = "Cheese Cakes";
             return View(_pieRepository.AllPies);
         }
     }

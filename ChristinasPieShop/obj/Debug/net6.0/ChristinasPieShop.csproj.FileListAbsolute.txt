@@ -24,3 +24,5 @@ C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\refint\Christinas
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.pdb
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.genruntimeconfig.cache
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ref\ChristinasPieShop.dll
+C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.RazorAssemblyInfo.cache
+C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.RazorAssemblyInfo.cs
