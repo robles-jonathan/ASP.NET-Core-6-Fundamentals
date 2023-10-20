@@ -1,4 +1,5 @@
 ﻿using ChristinasPieShop.Models;
+using ChristinasPieShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ChristinasPieShop.Controllers
@@ -16,8 +17,11 @@ namespace ChristinasPieShop.Controllers
 
         public IActionResult List()
         {
-            ViewBag.CurrentCategory = "Cheese Cakes";
-            return View(_pieRepository.AllPies);
+            //ViewBag.CurrentCategory = "Cheese Cakes";
+            //return View(_pieRepository.AllPies);
+            PieListViewModel pieListViewModel = new PieListViewModel
+                (_pieRepository.AllPies, "Cheese cakes");
+            return View(pieListViewModel);
         }
     }
 }
