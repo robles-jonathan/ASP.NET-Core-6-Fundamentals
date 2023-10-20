@@ -26,3 +26,5 @@ C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ref\ChristinasPieShop.dll
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.RazorAssemblyInfo.cache
 C:\Code\1\ChristinasPieShop\ChristinasPieShop\obj\Debug\net6.0\ChristinasPieShop.RazorAssemblyInfo.cs
+C:\Code\1\ChristinasPieShop\ChristinasPieShop\bin\Debug\net6.0\libman.json
+C:\Code\1\ChristinasPieShop\ChristinasPieShop\bin\Debug\net6.0\ChristinasPieShop.staticwebassets.runtime.json
