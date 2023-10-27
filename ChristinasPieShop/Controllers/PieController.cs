@@ -20,7 +20,7 @@ namespace ChristinasPieShop.Controllers
             //ViewBag.CurrentCategory = "Cheese Cakes";
             //return View(_pieRepository.AllPies);
             PieListViewModel pieListViewModel = new PieListViewModel
-                (_pieRepository.AllPies, "Cheese cakes");
+                (_pieRepository.AllPies, "All pies");
             return View(pieListViewModel);
         }
 

@@ -16,7 +16,8 @@
 
                     <div class="d-flex justify-content-between mt-2">
                         <h2 class="text-start">
-                            <a class="pie-link">@pie.Name</a>
+                            <a class="pie-link" asp-controller="pie" asp-action="details"
+                            asp-route-id="@pie.PieId" >@pie.Name</a>
                         </h2>
                         <h5 class="text-nowrap">
                             @pie.Price.ToString("c")
