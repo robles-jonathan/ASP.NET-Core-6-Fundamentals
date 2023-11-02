@@ -17,13 +17,12 @@ namespace ChristinasPieShop.Controllers
 
         //public IActionResult List()
         //{
-        //    //ViewBag.CurrentCategory = "Cheese Cakes";
+        //    //ViewBag.CurrentCategory = "Cheese cakes";
+
         //    //return View(_pieRepository.AllPies);
 
-
-        //    PieListViewModel pieListViewModel = new PieListViewModel
-        //        (_pieRepository.AllPies, "All pies");
-        //    return View(pieListViewModel);
+        //    PieListViewModel piesListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
+        //    return View(piesListViewModel);
         //}
 
         public ViewResult List(string category)
@@ -46,13 +45,12 @@ namespace ChristinasPieShop.Controllers
             return View(new PieListViewModel(pies, currentCategory));
         }
 
-        public IActionResult Details(int id) 
+        public IActionResult Details(int id)
         {
-           var pie = _pieRepository.GetPieById(id);
-            if(pie == null)
-            {
+            var pie = _pieRepository.GetPieById(id);
+            if (pie == null)
                 return NotFound();
-            }
+
             return View(pie);
         }
     }
